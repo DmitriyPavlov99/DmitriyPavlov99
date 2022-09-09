@@ -1,10 +1,5 @@
 <img src="https://github.com/DmitriyPavlov99/DmitriyPavlov99/blob/main/header.png" alt="Photo Profile">
 
-<h1 align="center">Hi there, I'm Pavlov Dmitriy
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Trainee/Junior Front-End Developer 💻 </h3>
-
-
 # Todoist Stats
 
 <!-- TODO-IST:START -->
